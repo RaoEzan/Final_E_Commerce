@@ -1,6 +1,6 @@
 import React from 'react';
 import useFetch from '../Hooks/useFetch';
-import Card from '../component/Card';
+import Card from '../component/card';
 import Swal from 'sweetalert2';
 import { useNavigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
